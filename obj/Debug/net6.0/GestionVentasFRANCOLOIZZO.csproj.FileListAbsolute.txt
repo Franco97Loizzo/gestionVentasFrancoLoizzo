@@ -31,3 +31,8 @@ C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\bin\Debug\net6.0\runtimes\
 C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\obj\Debug\net6.0\staticwebassets\msbuild.GestionVentasFRANCOLOIZZO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\obj\Debug\net6.0\staticwebassets\msbuild.build.GestionVentasFRANCOLOIZZO.props
+C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestionVentasFRANCOLOIZZO.props
+C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestionVentasFRANCOLOIZZO.props
+C:\Users\Franco\WEB\C sharp\GestionVentasFRANCOLOIZZO\obj\Debug\net6.0\staticwebassets.pack.json

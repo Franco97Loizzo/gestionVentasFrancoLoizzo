@@ -2,14 +2,14 @@
 {
     public class Producto
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string Descripciones { get; set; }
-        public double Costo { get; set; }
-        public double PrecioVenta { get; set; }
+        public decimal Costo { get; set; }
+        public decimal PrecioVenta { get; set; }
         public int Stock { get; set; }
         public int IdUsuario { get; set; }
 
-        public Producto(int id, string descripciones, double costo, double precioVenta, int stock, int idUsuario)
+        public Producto(long id, string descripciones, decimal costo, decimal precioVenta, int stock, int idUsuario)
         {
             Id = id;
             Descripciones = descripciones;
